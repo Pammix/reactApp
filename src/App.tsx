@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          My Frist React App <code>src/App.tsx</code> and save to reload.
+          My Frist React App!! 
         </p>
         <a
           className="App-link"
